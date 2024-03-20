@@ -6,19 +6,17 @@ Seja bem-vindo(a) ao meu guia CSS3!
   <img src="https://user-images.githubusercontent.com/124575968/231177216-7d316399-2d5f-4aff-b616-222707bd5f0d.png">
 </div>
 
-Olá, eu sou Maycon! Nesse arquivo eu tentei deixar bem resumido todo o conteúdo que estou aprendendo, se caso sinta que faltou algo ou não entendeu alguma coisa é só me chamar nas minhas redes sociais (que estão no meu perfil GitHub) e perguntar. Assim aprendemos juntos!
+Olá, eu sou Maycon! Nesse arquivo eu tentei deixar bem resumido todo o conteúdo que estou aprendendo de CSS3.
+Para contribuir com esse projeto:
 
 Deixe uma :star: !
 
-Bons estudos!
 
 ---
 
-CSS --> Cascading style sheets
-
 ### **O que é?**
 
-Linguagem de estilo utilizada para definir a aparência e o layout de páginas da web.
+CSS (Cascading style sheets) é uma linguagem de estilo utilizada para definir a aparência e o layout de páginas da web.
 Permite que desenvolvedores web alterem facilmente a aparência de um site sem ter que modificar o conteúdo subjacente.
 
 Css interno (incorporado a página HTML)
@@ -28,14 +26,15 @@ Css externo (Em outra página)
 ---
 ## **Seletores e Classes:**
 
-Seletores: usados para selecionar e aplicar estilos a elementos HTML específicos em uma página da web.
+Seletores são usados para selecionar e aplicar estilos a elementos HTML específicos em uma página da web.
 
-Classes: um dos tipos de seletores, permitem que aplique estilos a um ou mais elementos HTML que possuem a mesma classe.
+Classes são um dos tipos de seletores, permitem que aplique estilos a um ou mais elementos HTML que possuem a mesma classe.
 
 ---
 ### **Propriedade color:**
 
-Responsável por mudar a cor do texto. Pode ser definida usando um nome de cor *pré-definido*, um *valor hexadecimal*, 
+Responsável por mudar a cor do texto.
+Pode ser definida usando um nome de cor *pré-definido*, um *valor hexadecimal*, 
 uma *função rgb(), rgba(), hsl() ou hsla()*.
  
 
@@ -150,6 +149,7 @@ p {
   border-left: 8px groove orange;
 }
 ```
+
 Borda do top 2 pixels de largura, estilo pontilhado, cor azul.
 Borda direita 4 pixels de largura, tracejado, cor verde.
 Borda inferior 6 pixels de largura, estilo duplo e vermelha.
@@ -532,14 +532,6 @@ attr(x): Você pode usar o valor do atributo x do elemento como conteúdo gerado
 propriedade CSS que define a distância entre um elemento e seu elemento pai. É uma propriedade abreviada para as propriedades , , , etoprightbottomleft12. Os valores para a propriedade podem ser definidos de maneiras diferentes, dependendo do número de valores especificadosinset1.
 
 
----
-Achou esse guia insuficiente? Acesse:
-[Guia completo Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
----
-
-
-
 # **Flexbox:**
 
 alinha elementos dentro de uma caixa (contêiner)
@@ -626,3 +618,10 @@ Técnica comumente usada em design de interface de usuário que permite aos usu�
 O efeito dropdown é útil para economizar espaço na tela, já que apenas um único elemento é exibido na tela, enquanto as opções adicionais ficam ocultas até que o usuário solicite sua visualização. Isso torna a interface mais limpa e organizada.
 
 O efeito dropdown pode ser implementado em diferentes tecnologias, amplamente utilizado em sites e aplicativos.
+
+
+---
+Achou esse guia insuficiente? Acesse:
+[Guia completo Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+---
